@@ -60,6 +60,3 @@ Mandatory conversions implemented:
 
 ---
 
-
-**Contributing / Issues**
-Spotted undefined behavior or a mismatch with glibc’s `printf`? Please open an issue with a minimal example (format string + arguments, expected vs. actual output).
